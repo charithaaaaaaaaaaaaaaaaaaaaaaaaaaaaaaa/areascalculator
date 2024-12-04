@@ -399,6 +399,6 @@ for(int x = -radius; x <=radius ; x++)
   }
 
   printf("\r\n");
-
+return 0;
 }
 }
